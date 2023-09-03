@@ -72,4 +72,71 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		V(te) kara, V2 : First do(verb1), then verb2
+	</summary>
+	<ul>
+   <li> Kusuri o nonde kara nemasu : Take medicine and then sleep.</li>
+  </ul>
+</details>
+
+## TODO : Watch this from Nihongoal and update the example (L16)
+<details>
+	<summary>
+		N1 wa N2 ga adj desu : N1 is known / famous for having (adj) N2.
+	</summary>
+	<ul>
+   <li> Osaka wa tabemono ga oishi desu : Osaka is famous for delicious foods.</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(nai) de kudasai : Please don't do
+	</summary>
+	<ul>
+   <li> Ashita byoin e ikanai de kudasai : Please don't go to hospital tomorrow </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(nai) kereba narimasen : Must do (verb) 
+	</summary>
+	<ul>
+   <li> Enpitsu de kakana kereba narimasen : You must write by pencil! </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(nai) kute mo ii desu : Need not do (verb) [opposite of must do]
+	</summary>
+	<ul>
+   <li> Ashita kona kute mo ii desu : You need not come tomorrow. </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V(dict) koto / noun } ga dekimasu / dekimasen : can / can't do (verb) [can refer to one's ability / possibility (like availability of a service etc)]
+	</summary>
+	<ul>
+   <li> Mira san wa dansu ga dekimasu : Mr. Miller can dance</li>
+   <li> Watashi wa oyogu koto ga dekimasen : I can't swim</li>
+   <li> koko de kādo de harai koto ga dekimasen : you can't pay by card here (since the service is not supported)</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		shumi wa { V(dict) koto / noun } desu : My hobby is...
+	</summary>
+	<ul>
+   <li> watashi no shumi wa dansu desu : My hobby is dancing </li>
+   <li> shumi wa manga o yomu koto desu : My hobby is reading manga </li>	
+  </ul>
+</details>
+
 

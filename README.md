@@ -63,7 +63,7 @@
 
 <details>
 	<summary>
-		i-adj (kute) / na-adj (de) / noun (de) : Using multiple adjectives in one sentence to describe someone / something. Only the form of the first adj / noun changes. 
+		{ i-adj (kute) / na-adj (de) / noun (de) } : Using multiple adjectives in one sentence to describe someone / something. Only the form of the first adj / noun changes. 
 	</summary>
 	<ul>
    <li> Naoko san yasashikute, shinsetsu na hito desu </li>
@@ -139,4 +139,89 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		{ V1(dict) / noun no / quantifier(period)} mae ni V2 : Before V2 is done, the conditions in the {} should have been satisfied.
+	</summary>
+	<ul>
+   <li> Maiban neru mae ni kusuri o nomimasu : Before sleeping, take medicine.</li>
+   <li> 2nen mae ni Nihon e kimashita : I came to Japan before 2 years</li>
+   <li> ryoko no mae kaimono shimasita : Before trip, I did shopping.</li>
+		
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V(ta) koto ga arimasu : have done (verb) / have experience 
+	</summary>
+	<ul>
+   <li> Uma ni notta kota ga arimasu : I have ridden a horse </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V(dict) koto ga arimasu : When we do (verb) sometimes / ocassionally
+	</summary>
+	<ul>
+   <li> tokidoki tenisu o suru kota ga arimasu : I play tennis sometimes </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V(ta)ri, V(ta) ri......masu / mashita : Explaining random sequence of actions (unlike V(te), V(te)... masu which was sequential / chronological events)
+	</summary>
+	<ul>
+   <li> Senshyu no dōyobi wa tomodachi ni attari, eiga o mitari shimashita </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		{ i-adj(ku) / na-adj(ni) / noun (ni) } narimasu / narimashita (automatic events / inevitable)
+	</summary>
+	<ul>
+   <li> Samuku narimasu : It will become cold </li>
+   <li> genkini narimasu : I will become healthy </li>
+   <li> raishu 25 sai ni narimasu : Next week, I will be 25 years old (automatically) </li>
+  </ul>
+</details>
+
+# TODO : L20 nihongoal notes and table 
+<details>
+	<summary>
+		V (plain) to omoi masu : I think that...	
+	</summary>
+	<ul>
+   <li> kore de tariru to omoimasu : I think this will suffice </li>
+   <li> Nihonjin wa biza ga iranai to omoimasu : I think Japanese don't need visa </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V(plain) / raw sentence } to iimasu : repeat what someone said exactly (directly / indirectly)
+	</summary>
+	<ul>
+   <li> Nihonjin wa shokuji no mae ni "Itadakimasu" to iimasu : Japanese say "Itadakimasu" before meal</li>
+   <li> Mira san wa "mata atode denwashimasu" to iimashita : direct speech </li>
+   <li> Mira san wa mata atode denwasuru to iimashita : indirect speech </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(plain) deshō? : confirmation / "right?" or for affirmative sentences (where speaker takes a guess)
+	</summary>
+	<ul>
+   <li> Asatte yuki ga furu deshō : It will snow day after tomorrow, right? </li>
+   <li> Kyo wa ame ga furu deshō : It will <b>probably</b> rain today. </li>	
+  </ul>
+</details>
 

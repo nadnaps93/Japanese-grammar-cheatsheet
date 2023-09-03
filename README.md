@@ -1,7 +1,7 @@
 ## TODO : Rule table for te, ta, nai, dict form
 <details>
 	<summary>
-		<b>V(te) kudasai</b> : <i>Please do (verb) </i>
+		V(te) kudasai : Please do (verb)
 	</summary>
 	<ul>
    <li>koko ni namae o kaite kudasai : Please write your name here</li>    

@@ -225,3 +225,97 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		Place de event ga arimasu : An event takes place at a certain place / location
+	</summary>
+	<ul>
+   <li> Eminem wa Manila de konsāto ga arimashita : Eminem had a concert at Manila </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		Noun demo verb : (... or something?) [suggestion]
+	</summary>
+	<ul>
+   <li> kōhi demo nomimasenka : Shall we have coffee or something? </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V(nai) to ikemasen : easier alternative of V(nai) kereba narimasen [ikemasen is optional]
+	</summary>
+	<ul>
+   <li> mō ikanaito : I have to go already. </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun modification form
+	</summary>
+	<ul>
+   <li> Ashita hiroshima e iku hito : The person who's going to Hirosima tomorrow </li>
+   <li> kinō watashi <b>ga</b> mita eiga wa omoshirokatta desu : The movie watched by me yesterday was interesting </li>		
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V(dict) / V(nai) / i-adj / n-adj / Noun no } toki ... : when (conditional form)
+	</summary>
+	<ul>
+   <li> yasuii toki kono uchi o kaitai desu : When it becomes cheap, I want to buy this house. </li>
+   <li> himana toki asobi ni kite kudasai : When you're free, please come to play. </li>
+   <li> yasumi no toki ryōko e ikimasu : When it's a holiday, I will go to trip. </li>
+   <li> ame ga furanai toki sentakushimasu : When it's not raining, I will wash clothes. </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V(dict) vs V(ta) toki : V(dict) toki means ongoing / incomplete action; V(ta) toki means the action is done.
+	</summary>
+	<ul>
+   <li> daigaku e kuru toki eki de Yamada san ni aimashita : While <b>going</b> to the university, I met with Yamada at the station. </li>
+   <li> daigaku e kita toki toshokan de Yamada san ni aimashita : <b>After</b> coming to the college, I met with Yamada at the library. </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V(dict) to, sentence (reaction / result) : V(dict) causes reaction
+	</summary>
+	<ul>
+   <li> koko o osuto, otsuri ga demasu : On pressing this, change will come out. </li>
+   <li> hidari ni magaru, ginkō ga arimasu : On turning left, there's a bank. </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		~ o samposhimasu / arukimasu / magarimasu / watarimasu
+	</summary>
+	<ul>
+   <li> Koen o samposhimasu </li>
+   <li> Hashi o watarimasu </li>
+</ul>
+</details>
+
+<details>
+	<summary>
+		V(te) agemasu / moraimasu / kuremasu : doing / receiving a favour
+	</summary>
+	<ul>
+   <li> Sensei wa watashi <b>ni</b> lesson o oshiete kuremashita </li>
+   <li> Amir wa Yoshida san ni kuruma o kashite agemasu : Amir (giver of favour) will lend his car to Mr. Yoshida (reciever of favour) </li>
+   <li> Watashi wa Samita san ni bus noriba made annaishite moraimashita : Samita (giver) guided me (receiver) till bus station.</li>
+  </ul>
+</details>

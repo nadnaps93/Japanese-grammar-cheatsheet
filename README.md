@@ -388,3 +388,16 @@
    <li> Salad o tabemashita. Cake mo tabemashita (Here, o is replaced with mo in the second sentence) </li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		Shika(with negative only) vs Dake(with positive only) : Shika means nothing but..
+	</summary>
+	For ga and o, we replace them with shika but with ni, made and wa, we append shika.
+	<ul>
+   <li> Copy wa hitotsu <b>shika arimasen</b> : I have nothing but just one copy (Shika - negative)</li>
+   <li> Copy was hitotsu dake arimasu : I have only one copy (Dake - positive)</li>
+   <li> Kanojo ni-shika katte agenai : I won't buy for anyone but her (Shika) </li>
+   <li> Kanojo dake ni katte ageru : I will only buy for her (Dake) </li>
+  </ul>
+</details>

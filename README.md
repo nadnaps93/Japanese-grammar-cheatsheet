@@ -319,3 +319,50 @@
    <li> Watashi wa Samita san ni bus noriba made annaishite moraimashita : Samita (giver) guided me (receiver) till bus station.</li>
   </ul>
 </details>
+
+## TODO : Notes for lesson 25-26
+## TODO : Table for potential verb form L27
+
+<details>
+	<summary>
+		particle ga is used in place of particle o with potential verbs. Particle Ni and e remain unchanged.
+	</summary>
+	<ul>
+   <li> Watashi wa eigo o hanashimasu : I speak English (Normal form) </li>
+   <li> Watashi wa eigo ga <b>hanasemasu</b> : I <b>can</b> speak English (Potential verb form) </li>
+
+   <li> Hitoride kūkō e ikemasuka : Can you go to the airport alone. (e particle not changed to ga) </li>
+   <li> Ashita 6ji ni okirare masuka : Can you wake up at 6 tomorrow morning. (ni particle not changed to ga) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Potential verb sentence uses : (i) express a person's ability; (ii) to express possiblity of action 
+	</summary>
+	<ul>
+   <li> Mira san wa Nihongo ga yomemasu : Miller can read Japanese <b>(i)</b> </li>
+   <li> Chumon ga mada kaerare masuka : Can I still change my order? <b>(ii)</b> </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Involuntary{ Miemasu / Kikoemasu } vs Voluntary{ Miraremasu / kikemasu } 
+	</summary>
+	<ul>
+   <li> Ashita kara sono eiga ga miraremasu : <b>You can watch</b> that movie starting tomorrow. (Voluntary) </li>
+   <li> Kono machi kara Fujisan ga miemasu :  Mt. Fuji <b>can be seen</b> from this town. (Involuntary / can't be controlled by the person) </li>
+   <li> Audio guide de setsumei ga kikemasu :  You can listen to the explanation using the audio guide. (Voluntary) </li>
+   <li> Ano heya kara fushigi na oto ga kikoemasu :  Strange sound <b>can be heard</b> from that room (Involuntary / can't be controlled by the person) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Dekimasu : come into being / come up / be completed / be finished / be made (different from L18 (can do (verb)))
+	</summary>
+	<ul>
+   <li> Gakkō no chikaku ni atarashii mall ga dekimashita : A new mall has been completed near my school </li>
+  </ul>
+</details>

@@ -364,5 +364,27 @@
 	</summary>
 	<ul>
    <li> Gakkō no chikaku ni atarashii mall ga dekimashita : A new mall has been completed near my school </li>
+   <li> ban gohan ga dekimashita : Dinner is ready </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Double particle : ni-wa / de-wa / kara-wa / made-wa : Emphasize a noun as topic
+	</summary>
+	<ul>
+   <li> heya ni-wa terebi ga arimasu : <b>In the room</b>, there's a TV (Here, we're emphasizing "inside" the room)</li>
+   <li> heya ni terebi ga arimasu : There's a <b>TV</b> in the room (Here, we're emphasizing on the TV)</li>
+   <li>Mise de-wa sake ga kaemasu : <b>At the store</b>, you can buy Japanese wine. </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		Particle mo can replace wa, o, ga.
+	</summary>
+	<ul>
+   <li> Salad o tabemashita. Cake mo tabemashita (Here, o is replaced with mo in the second sentence) </li>
   </ul>
 </details>

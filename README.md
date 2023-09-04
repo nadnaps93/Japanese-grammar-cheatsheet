@@ -321,6 +321,60 @@
 </details>
 
 ## TODO : Notes for lesson 25-26
+
+<details>
+	<summary>
+		{ V(plain) / i-adj / na-adj (na) / noun (na) } n desu form : When speaker guesses / asks for confirmation / asks for information / asks for explanation of a situation / gives a reason
+	</summary>
+	<ul>
+   <li> Suteki na shatsu desu ne. Doko de <b>kattan desu</b> ka : What a nice shirt. Where did you buy it? (Asking for info) </li>
+   <li> Dōshite <b>okuretan</b> desu ka : Why were you late? (Asking for explanation) </li>
+   <li> Densha ga okuretan desu : (Because) the train was late (Giving reason) </li>
+   <li> Okane ga naindesu ga, ashita haratte mo ii desu ka : I have no money, is it okay to pay tomorrow? </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V(te) itadakemasenka : More polite form of V(te) kudasai (Could you please...)
+	</summary>
+	<ul>
+   <li> yarikatta ga wakaranain desu ga oshiete itadakemasen ka : I don't know how to do it, could you please teach me? </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{Wh-questions} V(ta) ra ii desu ka : Asking if it's good to do (verb)
+	</summary>
+	<ul>
+   <li> Onaka ga suita, doko de tabetara ii desu ka : I am hungry, where will be a good place to eat? </li>
+   <li> Omiyage o kaitain desu ga, nani o kattara ii desu ka : I want to buy souvenirs, what should I buy? </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Ga vs wa : Ga focuses on subject but wa focuses on the predicate (information about the subject)
+	</summary>
+	<ul>
+   <li> Kudamono ga suki janai : I don't like <b>fruits</b> </li>
+   <li> Kudamono wa suki janai : I <b>don't like</b> fruits </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun(object) wa suki / kirai / jōzu / heta : to highlight the noun instead of ga particle.
+		Noun(object) wa arimasu : instead of ga particle
+	</summary>
+	<ul>
+   <li> kudamono wa suki janai to omoimasu : I think she <b>doesn't like</b> fruits. </li>
+   <li> Shiken wa arimasu : I <b>have</b> exam</li>
+  </ul>
+</details>
+
 ## TODO : Table for potential verb form L27
 
 <details>

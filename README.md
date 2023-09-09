@@ -455,3 +455,40 @@
    <li> Kanojo dake ni katte ageru : I will only buy for her (Dake) </li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		<b>Transitive</b> - doer present. Takes wa / o particle; <b>Intransitive</b> - doer not present. Takes ga particle only.
+	</summary>
+	<ul>
+   <li> Watashi wa doa <b>o  akemasu</b> : I open the door (Transitive Verb - I doer) </li>
+   <li> Doa <b>ga akimasu</b> : The door opens (Intransitive verb - automatic)</li>
+   <li> watashi wa doa o shimemasu : I close the door <li>
+   <li> doa ga shimarimasu : The door closes </li>
+  </ul>
+</details>
+
+# REMOVE 
+
+<details>
+	<summary>
+		summary
+	</summary>
+	<ul>
+   <li> list : desc </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun <b>ga<b> Intransitive-Verb(te) imasu : Describing the state of a noun from viewer's perspective
+	</summary>
+	<ul>
+   <li> doa ga aite imasu : The door is open </li>
+   <li> mado ga warete imasu : The window is broken </li>
+   <li> denki ga tsuite imasu : the light is on </li>
+		
+  </ul>
+</details>
+
+

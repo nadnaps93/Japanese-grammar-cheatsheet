@@ -458,6 +458,41 @@
 
 <details>
 	<summary>
+		V1(stem) nagara V2 (main action) : Doing V1 <b>while</b> doing V2
+	</summary>
+	<ul>
+   <li> kōhī o nomi nagara terebi o mimasu : I drink coffee while watching TV </li>
+  </ul>
+</details>
+
+# REMOVE 
+
+<details>
+	<summary>
+		summary
+	</summary>
+	<ul>
+   <li> list : desc </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V / adj (plain form) shi : connecting verbs and adjectives in a single sentence. 
+	</summary>
+	<ul>
+   <li> Satō san wa yasashii shi, kireida shi, ninki ga arimasu : Ms Sato is kind, beautiful and popular. (Describing something using multiple adjs)</li>
+   <li> Ano mise wa uchi kara chikai shi, aruitte korareru shi, soreni nedan mo yasui desu kara kaimasu : That shop is nearer to my house and I can come by walking. Moreover, the prices are cheap. That's why I shop from there. (Stating more than one reason connecting adj and verb)</li>		
+  </ul>
+	<li> Gomen, haha o tetsudauchi, repoto o yarana kereba narimasen : Sorry, I have to help my mother and have to do my report (Declining someone's invitation politely by giving reasons)</li>
+</details>
+
+
+
+
+<details>
+	<summary>
 		<b>Transitive</b> - doer present. Takes wa / o particle; <b>Intransitive</b> - doer not present. Takes ga particle only.
 	</summary>
 	<ul>
@@ -502,15 +537,5 @@
   </ul>
 </details>
 
-# REMOVE 
-
-<details>
-	<summary>
-		summary
-	</summary>
-	<ul>
-   <li> list : desc </li>
-  </ul>
-</details>
 
 

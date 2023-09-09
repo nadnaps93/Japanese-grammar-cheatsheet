@@ -468,6 +468,18 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		Noun <b>ga</b>b> Intransitive-Verb(te) imasu : Describing the state of a noun from viewer's perspective
+	</summary>
+	<ul>
+   <li> doa ga aite imasu : The door is open </li>
+   <li> mado ga warete imasu : The window is broken </li>
+   <li> denki ga tsuite imasu : the light is on </li>
+		
+  </ul>
+</details>
+
 # REMOVE 
 
 <details>
@@ -479,15 +491,25 @@
   </ul>
 </details>
 
+
 <details>
 	<summary>
-		Noun <b>ga<b> Intransitive-Verb(te) imasu : Describing the state of a noun from viewer's perspective
+		V(te) shimai masu / mashita : Emphasizes completion of action (Form - 1)
 	</summary>
 	<ul>
-   <li> doa ga aite imasu : The door is open </li>
-   <li> mado ga warete imasu : The window is broken </li>
-   <li> denki ga tsuite imasu : the light is on </li>
-		
+   <li> Inoue san ga kureta keki wa zenbu <b>tabete shimai mashita</b> : I <b>ate</b> all the cake that Mr. Inoue gave me. (Emphasizing the <b>completion</b> of the eating action) </li>
+   <li> Inoue san ga kureta keki wa zenbu tabemashita : Means the same but focus not on completion of action. (Similar to wa / ga) </li>
+   <li> Kaeru jikan made ni repoto o kaite shimaimasu : I will <b> finish writing </b> the report by the time I leave (Completion of action in future) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(te) shimai mashita : Expressing regret / embarassment (for past) (Form - 2)
+	</summary>
+	<ul>
+   <li> Kippu o nakushite shimaimashita ga, dō shitara ii desu ka : I lost my train ticket. What should I do? </li>
+		<li> hito ga ooikatta desu. Sorede supichi o wasure shimei mashita : There were so many people. That's why I forgot my speech.</li>
   </ul>
 </details>
 

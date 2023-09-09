@@ -320,7 +320,7 @@
   </ul>
 </details>
 
-## TODO : Notes for lesson 25-26
+## TODO : Notes for lesson 25
 
 <details>
 	<summary>
@@ -465,18 +465,6 @@
   </ul>
 </details>
 
-# REMOVE 
-
-<details>
-	<summary>
-		summary
-	</summary>
-	<ul>
-   <li> list : desc </li>
-  </ul>
-</details>
-
-
 <details>
 	<summary>
 		V / adj (plain form) shi : connecting verbs and adjectives in a single sentence. 
@@ -488,6 +476,15 @@
 	<li> Gomen, haha o tetsudauchi, repoto o yarana kereba narimasen : Sorry, I have to help my mother and have to do my report (Declining someone's invitation politely by giving reasons)</li>
 </details>
 
+<details>
+	<summary>
+		Particle Ni (specific destination / place) vs E (destination with direction)
+	</summary>
+	<ul>
+   <li> Yoku kono kisatten ni kurun desu ka : Do you often come to <b>this coffee shop</b> (No direction but a specific destination) </li>
+   <li> Ni and e can be used for ikimasu, kimasu, kaerimasu, shūchōshimasu</li>
+  </ul>
+</details>
 
 
 

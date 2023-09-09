@@ -1,4 +1,5 @@
 ## TODO : Rule table for te, ta, nai, dict form
+## TODO : L1-L13
 <details>
 	<summary>
 		V(te) kudasai : Please do (verb)
@@ -320,7 +321,30 @@
   </ul>
 </details>
 
-## TODO : Notes for lesson 25
+<details>
+	<summary>
+		[Moshi(if)]{ V(ta) / adj (plain past) / noun } ra, main sentence : { If / when } conditional clause, then main sentence. If has less probability of occuring than when. When is almost certain.
+	</summary>
+	<ul>
+   <li>  1 oku en ga atta ra, shigoto o yamemasu : If I have 1 million yen, I will quit my job</li>
+   <li> himadatta ra, asobimashō : If you are free, let's hang out </li>
+   <li> genki ni natta ra, ippai nomimashō : <b> When</b> you get better, let's have a drink </li>
+   <li> <b>Moshi</b> 1oku en ga atta ra, shigoto o yamemasu : <b>If in case</b> I have 1 million yen, I will quit my job. (less certain / the speaker is not confident)</li>		
+  </ul>
+</details>
+
+<details>
+	<summary>
+		[Ikura(how much)]{ V(te) / i-adj (kute) / na-adj, noun(de) } mo, second sentence : Even if conditional clause, main sentence
+	</summary>
+	<ul>
+   <li> Benkyōshite mo, wakarimasen : <b>Even if</b> I study, I won't understand </li>
+   <li> Yasukute mo, ringo ga suki janai : Even if they are cheap, I don't like apples </li>
+   <li> benride mo, sumaho o kaimasen : Even if they are convenient, I won't buy smartphones</li>
+   <li> <b>Ikura</b> takakute mo, anata ni katte agemasu : No matter how expensive, I will buy it for you (Ikura suggests degree of conditional clause - no matter how much)</li>
+		
+  </ul>
+</details>
 
 <details>
 	<summary>

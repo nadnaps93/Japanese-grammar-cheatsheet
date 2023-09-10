@@ -197,6 +197,15 @@
 # TODO : L20 nihongoal notes and table 
 <details>
 	<summary>
+		Informal form of "nan desu ka" is nani
+	</summary>
+	<ul>
+   <li> kore wa nan desu ka? : kore wa nani? </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
 		V (plain) to omoi masu : I think that...	
 	</summary>
 	<ul>

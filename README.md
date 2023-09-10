@@ -267,7 +267,7 @@
 
 <details>
 	<summary>
-		{ V(dict) / V(nai) / i-adj / n-adj / Noun no } toki ... : when (conditional form)
+		{ V(dict) / V(nai) / i-adj / na-adj / Noun no } toki ... : when (conditional form)
 	</summary>
 	<ul>
    <li> yasuii toki kono uchi o kaitai desu : When it becomes cheap, I want to buy this house. </li>

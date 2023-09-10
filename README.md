@@ -276,6 +276,15 @@
 
 <details>
 	<summary>
+		~Ni tsuite : about something
+	</summary>
+	<ul>
+   <li> Nihon ni tsuite dou omoimasuka? : What do you think about Japan? </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
 		Noun modification form
 	</summary>
 	<ul>

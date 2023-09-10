@@ -178,7 +178,7 @@
 		V(ta)ri, V(ta) ri......masu / mashita : Explaining random sequence of actions (unlike V(te), V(te)... masu which was sequential / chronological events)
 	</summary>
 	<ul>
-   <li> Senshyu no dōyobi wa tomodachi ni attari, eiga o mitari shimashita </li>
+   <li> Senshyu no dōyobi wa tomodachi ni attari, eiga o mitari shimashita : Last week's Saturday is the topic, hence wa. I met a friend and watched a movie</li>
   </ul>
 </details>
 

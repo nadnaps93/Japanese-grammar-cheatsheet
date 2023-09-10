@@ -237,6 +237,16 @@
 
 <details>
 	<summary>
+		sonna ni : not so much (used with negatives only)
+	</summary>
+	<ul>
+   <li> shigoto wa sonnani taihen ja arimasen : The job is not so awful </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
 		Place de event ga arimasu : An event takes place at a certain place / location
 	</summary>
 	<ul>

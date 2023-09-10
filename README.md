@@ -294,8 +294,8 @@
 		V(dict) to, sentence (reaction / result) : V(dict) causes reaction
 	</summary>
 	<ul>
-   <li> koko o osuto, otsuri ga demasu : On pressing this, change will come out. </li>
-   <li> hidari ni magaru, ginkō ga arimasu : On turning left, there's a bank. </li>
+   <li> koko o osu to, otsuri ga demasu : On pressing this, change will come out. </li>
+   <li> hidari ni magaru to, ginkō ga arimasu : On turning left, there's a bank. </li>
   </ul>
 </details>
 

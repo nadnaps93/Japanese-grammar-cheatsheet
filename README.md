@@ -526,7 +526,7 @@
 
 <details>
 	<summary>
-		Noun <b>ga</b>b> Intransitive-Verb(te) imasu : Describing the state of a noun from viewer's perspective
+		Noun <b>ga</b> Intransitive-Verb(te) imasu : Describing the state of a noun from viewer's perspective
 	</summary>
 	<ul>
    <li> doa ga aite imasu : The door is open </li>

@@ -596,5 +596,34 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		N1 ni N2 ga Transitive-verb(te) arimasu : Something has been done intentionally (by someone)
+	</summary>
+	<ul>
+   <li> Tana ni ningyō ga kazatte arimasu : There is a doll displayed on the shelf (Someone has put it there intentionally for everyone to see) </li>
+   <li> Kabe ni kagami ga kakete arimasu : There is a mirror hung on the wall (Someone has hung it there intentionally for people to use)</li>
+  </ul>
+</details>
 
+<details>
+	<summary>
+		transitive-verb(te) okimasu : 3 meanings - Completion of a necessary action <b>by a given time</b>, completion of a necessary action in <b>readiness for the next time</b>, Keep the current state <b>as it is</b>
+	</summary>
+	<ul>
+   <li> Clean the room before father comes : Otōsan kuru mae ni heya heya o sōjishite oite kudasai : Please clean the room before father comes (Meaning-1)</li>
+   <li> jugyō no mae ni yoshushite okimasu : I will prepare the lesson before the next class (Meaning-2)</li>
+   <li> shokuji ga owattara, osara wa sokoni oite oite kudasai : When you've finished the meal, please leave the plates (as it is) there (Meaning-3)</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		mada Verb : still doing verb (Postive / affirmative form) 
+	</summary>
+	<ul>
+   <li> Mada yuki ga futte imasu : It's still snowing </li> 
+   <li> dōgu o mada tsukatte imasu kara, sonomamnishite oite kudasai : I'm still using the tools, so please leave them as is there.</li>
+  </ul>
+</details>
 

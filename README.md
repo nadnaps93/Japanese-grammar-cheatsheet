@@ -619,7 +619,7 @@
 
 <details>
 	<summary>
-		mada Verb : still doing verb (Postive / affirmative form) 
+		mada Verb : still doing verb (Positive / affirmative form) 
 	</summary>
 	<ul>
    <li> Mada yuki ga futte imasu : It's still snowing </li> 

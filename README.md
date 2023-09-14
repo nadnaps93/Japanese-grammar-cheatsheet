@@ -611,7 +611,7 @@
 		transitive-verb(te) okimasu : 3 meanings - Completion of a necessary action <b>by a given time</b>, completion of a necessary action in <b>readiness for the next time</b>, Keep the current state <b>as it is</b>
 	</summary>
 	<ul>
-   <li> Clean the room before father comes : Otōsan kuru mae ni heya heya o sōjishite oite kudasai : Please clean the room before father comes (Meaning-1)</li>
+   <li> Clean the room before father comes : Otōsan kuru mae ni heya o sōjishite oite kudasai : Please clean the room before father comes (Meaning-1)</li>
    <li> jugyō no mae ni yoshushite okimasu : I will prepare the lesson before the next class (Meaning-2)</li>
    <li> shokuji ga owattara, osara wa sokoni oite oite kudasai : When you've finished the meal, please leave the plates (as it is) there (Meaning-3)</li>
   </ul>

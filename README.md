@@ -627,3 +627,53 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		V(volitional form) : replacement of mashō (let's) / mashō ka (shall I)
+	</summary>
+	<ul>
+   <li> tsukaretta kara, chotto <b>kyūkeishiyō </b> : I'm tired, let's take a break </li>
+   <li> kore suki? kaō ka? : Do you like this? shall I buy it? </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V (volitional form) to { omotte imasu / omoimasu } : { I am / any third person is } thinking of doing verb
+	</summary>
+	<ul>
+   <li> ashita Nara e ikō to omotte imasu : I am thinking of going to Nara tomorrow </li>
+   <li> onīsan wa eigo no shiken o ukeyō to omotte imasu  : My brother is thinking of taking the English exam </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V(dict form) / V(nai form) } tsumori desu : Express <b>strong intention / determination</b> of doing something 
+	</summary>
+	<ul>
+   <li> watashi wa Nihon iku tsumori desu : I have a strong desire to go to Japan </li>
+   <li> Kyō kara tabaco o suwanai tsumori desu : From today, I am determined not to smoke. </li>		
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V(dict form) / Noun no } yotei desu : Plan / schedule
+	</summary>
+	<ul>
+   <li> kaigi wa 1ji ni hajimaru yotei desu : The meeting is scheduled to start at 1 o' clock </li>
+   <li> ryōkō wa 3shūkan no yotei desu : The trip is scheduled to be for 3 weeks </li>
+   <li> raigetsu America e iku yotei desu : I am planning to go to America next month </li>		
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Mada V(te form) imasen : The action has not taken placed yet
+	</summary>
+	<ul>
+   <li> kono hon wa mada yonde imasen  : I haven't read this book yet </li>
+  </ul>
+</details>
+

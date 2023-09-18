@@ -677,3 +677,48 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		{ V(ta) / V(nai) } hōga ii desu : It's better to / not to (These are non-polite forms). Polite form - {V(ta) ra ii desu : It would be a good idea to do(verb) }
+	</summary>
+	<ul>
+   <li> karada ni warui desu kara, tabaco o <b>yameta</b> hōga ii desu : It's bad for the body, so you better quit smoking </li>
+   <li> chōshi ga warui desu ka? <b>Muri o shinai</b> hōga ii desu : Are you feeling bad? You better not work too much. </li>
+   <li> undōshitara ii desu : (I think) it's a good idea if you do some exercise (Polite form) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V (plain) / i-adj / na-adj / noun } kamoshire masen : Might / Perhaps (less certain that deshō)
+	</summary>
+	<ul>
+   <li> chotto shoujishimasu. Okyakusan ga <b>kuru</b> shiremasen : I'll clean up a bit, a guest might come today. </li>
+		<li> Densha de ikimasu. Chūsajō ga nai kamoshiremasen : I'll go by train, because there might be no parking space. </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Adverbs for possiblity : 1) kitto - surely 2) tabun - maybe (often paired with to omoimasu) 3) moshikashitara - might (often used with kamoshiremasen)
+	</summary>
+	<ul>
+   <li> Serena san wa annani renshū shiteiru kara <b>kitto</b> shiai de katsu deshō : Serena is practicing that much, <b>surely</b> she will win the game </li>
+   <li> tabun kuru deshō : Maybe, he will come</li>
+   <li> Moshikashitara party ni ikenai kamoshiremasen : I might not be able to go to the party. </li>		
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ Nanika / Dareka / Dokoka / Itsuka } + Noun : Something, someone, somewhere, someday
+	</summary>
+	<ul>
+   <li> Nanika shinpaina koto ga arun desu ka : Is <b>something bothering</b> you?</li>
+   <li> Dareka shiranai hito ni chocolate o moraimashita : I got chocolates from <b>someone I don't know</b> </li>
+   <li> Dokoka ii resutoran arimasuka : Is there a <b>good restaurant somewhere</b> </li>
+   <li> Itsuka Tokyo ni iru toki aimashō : Let's meet when you're in Tokyo someday.</li>
+		
+  </ul>
+</details>
+

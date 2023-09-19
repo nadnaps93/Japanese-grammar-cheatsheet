@@ -1,3 +1,5 @@
+## TODO : Rule table for te, ta, nai, dict form, verb various forms, i-adj, na-adj, positive, negative, past form
+
 <details>
 	<summary>
 		{ kore / sore / are} wa : things only; {kono / sono / ano} Noun wa : things and people
@@ -159,7 +161,6 @@
   </ul>
 </details>
 
-## TODO : Rule table for te, ta, nai, dict form, verb various forms, i-adj, na-adj, positive, negative, past form
 <details>
 	<summary>
 		V(te) kudasai : Please do (verb)
@@ -242,13 +243,13 @@
   </ul>
 </details>
 
-## TODO : Watch this from Nihongoal and update the example (L16)
 <details>
 	<summary>
-		N1 wa N2 ga adj desu : N1 is known / famous for having (adj) N2.
+		N1 wa N2 ga adj desu : N1's N2 is adjective
 	</summary>
 	<ul>
    <li> Osaka wa tabemono ga oishi desu : Osaka is famous for delicious foods.</li>
+   <li> Anna san wa kami ga kurokutte me ga ooki desu : Anna has black hair and big eyes </li>
   </ul>
 </details>
 

@@ -588,8 +588,7 @@
 
 <details>
 	<summary>
-		Noun(object) wa suki / kirai / jōzu / heta : to highlight the noun instead of ga particle.
-		Noun(object) wa arimasu : instead of ga particle
+		Noun(object) wa suki / kirai / jōzu / heta; Noun(object) wa arimasu : instead of ga particle
 	</summary>
 	<ul>
    <li> kudamono wa suki janai to omoimasu : I think she <b>doesn't like</b> fruits. </li>

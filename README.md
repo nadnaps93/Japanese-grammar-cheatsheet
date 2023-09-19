@@ -1,5 +1,3 @@
-## TODO : L1-L13
-
 <details>
 	<summary>
 		{ kore / sore / are} wa : things only; {kono / sono / ano} Noun wa : things and people
@@ -33,12 +31,131 @@
 <details>
 	<summary>
 		Adverb (degree) with wakarimasu / arimasu
-		+ve : yoku (well / often), daitaii (mostly), sukoshi (little), takusan (many)
-		-ve: zenzen (not at all), amari (not much)
-
 	</summary>
 	<ul>
-   <li> a : b </li>
+   <li> +ve : yoku (well / often), daitaii (mostly), sukoshi (little), takusan (many) </li>
+   <li> -ve: zenzen (not at all), amari (not much)</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun(place) no position ga imasu (living) / arimasu (non-living)
+	</summary>
+	<ul>
+   <li> ue : top </li>
+<li> shita : down </li>
+<li> mae : front </li>
+<li> ushiro : back </li>
+<li> migi : right </li>
+<li> hidari : left </li>
+<li> naka : inside </li>
+<li> soto : outside </li>
+<li> tonari : neighbour / next </li>
+<li> chikaku : near </li>
+<li> aida : between </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun { ga / o} {quantifier / counter } verb
+	</summary>
+	<ul>
+   <li> Ringo o itsusu kaimashita : I bought 5 apples </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun wa (time period) Noun ga / o verb : Time period placement - usually comes after the topic or before the predicate
+	</summary>
+  <ul>
+   <li> Watashi wa <b>3kagetsu</b> Nihongo o benkyoshimashita </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Time period ni x(times) kai verb : How often
+	</summary>
+	<ul>
+   <li> 1shukan ni 5kai hatarakimasu </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Quantifier { dake / gurai} : dake - only; gurai - about
+	</summary>
+	<ul>
+   <li> Kyōdai ga hitori dake imasu : I have only one sibling </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun1 { wa / no houga} Noun2 yori adjective desu : Noun1 is more adjective than Noun2
+	</summary>
+	<ul>
+   <li> Nihon wa Philipines yori ooki desu : Japan is bigger than Philipines </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun1 to Noun2 to dochira ga adj desu ka : Which one is more adj between N1 and N2
+	</summary>
+	<ul>
+   <li> Indo no Kare to Nihon no Kare to dochira ga suki desu ka (Ans: Nihon no Kare <b>no houga</b> suki desu OR dochiramo (both)) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun1 no naka de {wh questions} ga ichiban adj desu ka : Choosing the best (adj) among a set of nouns
+	</summary>
+	<ul>
+   <li> Kazoku no naka de dare ga ichiban ryōri ga jōzu desu ka : Who is the best at cooking in your family? </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun ga hoshī desu : <b>I want</b> Noun
+	</summary>
+	<ul>
+   <li> Kuruma ga hōshī desu </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		Verb(stem) tai desu : I want to verb
+	</summary>
+	<ul>
+   <li> Tennis o shitai desu </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Place e { verb(stem) / noun } ni { ikimasu / kimasu / kaerimasu} : Go to place to do (verb)
+	</summary>
+	<ul>
+   <li> Watashi wa Nihon e { benkyōshi / benkyō (noun) } ni ikimasu </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		Hoshi and ~tai are i adjectives. Same rules followed.
+	</summary>
+	<ul>
+   <li> Hoshī, Hoshikunai, Hoshikatta, Hoshikunakatta </li>
+   <li> ~taī, ~takunai, ~takatta, ~takunakatta </li>
   </ul>
 </details>
 

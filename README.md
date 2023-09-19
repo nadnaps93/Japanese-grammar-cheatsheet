@@ -355,7 +355,6 @@
   </ul>
 </details>
 
-# TODO : L20 nihongoal notes and table 
 <details>
 	<summary>
 		Informal form of "nan desu ka" is nani

@@ -1,5 +1,48 @@
-## TODO : Rule table for te, ta, nai, dict form
 ## TODO : L1-L13
+
+<details>
+	<summary>
+		{ kore / sore / are} wa : things only; {kono / sono / ano} Noun wa : things and people
+	</summary>
+	<ul>
+   <li> kono kaban wa Mira san no desu : Things</li>
+   <li> Ano hito wa Karina san desu : People </li>
+   <li> Are wa uketsuke desu</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Company and country are considered as places. {Doko / Dochira} used for question sentences
+	</summary>
+	<ul>
+   <li> Sato san no kaisha wa dochira desu ka </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Nani used with transitive verbs while nan used with noun questions
+	</summary>
+	<ul>
+   <li> Nani o tabemasuka </li>
+   <li> Kore wa nan desu ka </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Adverb (degree) with wakarimasu / arimasu
+		+ve : yoku (well / often), daitaii (mostly), sukoshi (little), takusan (many)
+		-ve: zenzen (not at all), amari (not much)
+
+	</summary>
+	<ul>
+   <li> a : b </li>
+  </ul>
+</details>
+
+## TODO : Rule table for te, ta, nai, dict form, verb various forms, i-adj, na-adj, positive, negative, past form
 <details>
 	<summary>
 		V(te) kudasai : Please do (verb)

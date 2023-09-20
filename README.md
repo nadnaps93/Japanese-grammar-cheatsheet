@@ -852,7 +852,7 @@
 		{ V (plain) / i-adj / na-adj / noun } kamoshire masen : Might / Perhaps (less certain that deshō)
 	</summary>
 	<ul>
-   <li> chotto shoujishimasu. Okyakusan ga <b>kuru</b> shiremasen : I'll clean up a bit, a guest might come today. </li>
+   <li> chotto shoujishimasu. Okyakusan ga <b>kuru</b> kamoshiremasen : I'll clean up a bit, a guest might come today. </li>
 		<li> Densha de ikimasu. Chūsajō ga nai kamoshiremasen : I'll go by train, because there might be no parking space. </li>
   </ul>
 </details>

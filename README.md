@@ -236,7 +236,7 @@
 
 <details>
 	<summary>
-		V(te) kara, V2 : First do(verb1), then verb2
+		V(te) kara, V2 : First do(verb1), then (immediately) do verb2
 	</summary>
 	<ul>
    <li> Kusuri o nonde kara nemasu : Take medicine and then sleep.</li>
@@ -937,5 +937,48 @@
 	<ul>
    <li> Sophia san ni "Atode denwa o kudasai" to tsutaete itadakemasenka (raw sentence): Could you please tell Sophia to call me later </li>
    <li> Minna ni kaigi wa ashita no 10ji da to tsutaete itadakemasenka (plain form): Could you please tell everyone that the meeting is tomorrow at 10 AM</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V1(dict / ta) / Noun no } tōri ni, V2 : Do verb2 in the same way as { V1 / noun}
+	</summary>
+	<ul>
+   <li> watashi ga suru tōri ni, yatte kudasai : Please do as I do</li>
+   <li> haha ni naratta tōri ni, ryōri o tsukuri mashita : I made the dish the same way I learnt it from my mother </li>
+   <li>zu no tōri ni, kami o orimasu : I will fold the paper according to the drawing</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V1(ta) / Noun no } atode, V2 : After { V1 / Noun}, do V2 (Unlike V1 kara V2, V2 is <b>not necessarily immediate</b> after V1)
+	</summary>
+	<ul>
+   <li> Undōshita atode, biru o nomimashita : After exercising, I drank beer </li>
+  <li> concert no atode, shokuji o shimasō : Let's have a meal after the concert</li>		
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V1(te) / V1(nai) de}, V2 :  Do V2 (with / without) V1
+	</summary>
+	<ul>
+   <li> itsumo kasa o motte, dekakemasu : I always go out with my umbrella </li>
+  <li> seatbelt o shinai de, untensuru koto ga abunai desu : Driving without putting on a seatbelt is dangerous</li>
+  <li> Satō o irenai de, cofee o nomimasu : I drink coffee without putting sugar</li>
+		
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V1(nai) de V2 : V2 instead of V1
+	</summary>
+	<ul>
+   <li> Keki o kawanai de, jibun de tsukurimasu : I am not going to buy a cake, instead I will make it myself </li>
+		<li> kinō wa docomo ikanai de, uchi de game o shimashita : I didn't go anywhere yesterday, I played games at home instead. </li>
   </ul>
 </details>

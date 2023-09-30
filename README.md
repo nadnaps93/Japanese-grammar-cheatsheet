@@ -891,3 +891,51 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		Imperative / Prohibitive form : command to do / not do
+	</summary>
+	<ul>
+   <li> Hayaku nero : Go to bed early! </li>
+   <li> Urusai, Sawaguna : So noisy! Stop making noise </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(stem) + nasai : Gentler form of imperative verbs (Mothers to their children)
+	</summary>
+	<ul>
+   <li> Zenbu Tabenasai : Finish (all) your food </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		~ to yomimasuka : A is read as B; ~ to kaite arimasu : A is written
+	</summary>
+	<ul>
+   <li> Ano kanji wa nan to yomimasuka? "Hijōguchi" to yomimasu : How do you read that Kanji (pointing at a symbol)? It's read as "hijōguchi" </li>
+   <li> Asoko ni nan to kaite arimasuka? "Honjitsu Kyūgyō" to kaite arimasu : What is that written over there? It says "Honjitsu Kyūgyō" (Business closed today)</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		A wa B to iu imi desu : A means B (iu from iimasu - dictionary form)
+	</summary>
+	<ul>
+   <li> kono kanji wa <b>dō</b> iu imi desu ka? "Eigyōchū" wa [ima, mise ga aiteiru] to iu imi desu  : What does this kanji mean? "Eigyōchū" means the shop is open for business today</li>
+   <li> </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ raw sentence / plain form} to tsutaete itadakemasenka : Could you please convey to him/her that ... 
+	</summary>
+	<ul>
+   <li> Sophia san ni "Atode denwa o kudasai" to tsutaete itadakemasenka (raw sentence): Could you please tell Sophia to call me later </li>
+   <li> Minna ni kaigi wa ashita no 10ji da to tsutaete itadakemasenka (plain form): Could you please tell everyone that the meeting is tomorrow at 10 AM</li>
+  </ul>
+</details>

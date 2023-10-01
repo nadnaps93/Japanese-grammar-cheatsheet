@@ -982,3 +982,49 @@
 		<li> kinō wa docomo ikanai de, uchi de game o shimashita : I didn't go anywhere yesterday, I played games at home instead. </li>
   </ul>
 </details>
+
+
+<details>
+	<summary>
+		{V(ba) / i-adj (kereba), na-adj (nara), Noun(nara)} , main sentence : If condition A(verb / adj / noun) happens, B will happen 
+	</summary>
+	<ul>
+   <li> Aki ni <b>nareba</b>, ki no ha no iro ga kawarimasu : If it becomes autumn, the color of the leaves changes </li>
+   <li> minasan ga hayaku <b>kureba</b>, 9ji no densha ni mani au deshō : If everyone comes early, we can make it on time for the 9 o clock train </li>
+   <li> kotae ga tadashi <b>kereba</b>, maru o tsukete kudasai : If the answer's correct, mark it with a circle </li>
+   <li> kono hōhō ga <b>dame nara</b>, ano hōhō de yarimashō : If we can't do it this way, let's do the other method </li>
+   <li> 25 metoru gurai <b>nara</b>, oyogemasu : If it's just around 25 meters, I can swim it</li>
+   <li> isogashi<b>kunakereba</b>, chotto hanashite mo ii desuka : If you're not busy, can I talk to you? </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		~to / ~tara is similar to ~kereba except in <b>~kereba is always used when subject is self.</b> 
+	</summary>
+	<ul>
+   <li> Akai botan o osu <b>to</b>, cardo ga demasu : Akai botan o <b>oseba</b>, cardo ga demasu : When you press the red button, the card comes out</li>
+   <li> Isogashi kunakat<b>tara</b>, kite kudasai ✅ : (Anata wa)Isogashi kuna<b>kereba</b>, (anata)kite kudasai ❌ :If you're not busy, please come here  (kereba form is wrong since subject is not self)</li>
+   
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Interrogative V(ba) ii desu ka : [where/what/how etc should I..?]
+	</summary>
+	<ul>
+   <li> copīki wa kami ga nain desu ga, dare ni ie ba ii desu ka : The copier ran out of paper, who should I notify about it </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{V/i-adj/na-adj} (ba/nara), {V(dict)/i-adj/na-adj} hodo : the more you do something, the more something is (Here, the V and adj are same in both parts of the sentence. Hodo means limit)
+	</summary>
+	<ul>
+   <li> Kyūryū wa takakereba takai hodo ii desu : More the salary, the better </li>
+   <li> Billy Eilish no ongaku o kikeba kiku hodo suki ni narimasu : The more you listen to Billy Eilish's song, the more you'll like it</li>
+  </ul>
+</details>

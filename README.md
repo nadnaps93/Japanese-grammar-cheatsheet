@@ -1028,3 +1028,51 @@
    <li> Billy Eilish no ongaku o kikeba kiku hodo suki ni narimasu : The more you listen to Billy Eilish's song, the more you'll like it</li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		{ V1 (dict) / V(nai) } yōni V2 : Do V2 in order to achieve the <b>goal</b> (V1)
+	</summary>
+	<ul>
+   <li> Nihon de hatarakeru yōni nihongo o benkyōshimasu : I'll learn Japanese so that I'll be able to work in Japan. (goal : to be able to work in Japan) </li>
+   <li> kazoku ga shinpaishinai yōni, denwa o kakemasu : So that my family will not worry, I will call them (goal : not make the family worry) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V(dict) yōni / V(na)ku } narimasu : Something change to different state
+	</summary>
+	<ul>
+   <li> Nihongoal no kanji no video o mireba, kanji ga yomeru yōni narimasu : If you watch Nihongoal kanji videos, <b>you'll be able to read kanji</b></li>
+   <li> Kodomotachi wa gakkō de benkyōdekinaku narimashita : Children can no longer study at school.</li>		
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V(dict) / V(nai) } yōni shiteimasu : try to { do / not do } an action habitually
+	</summary>
+	<ul>
+   <li> Dekirudake, mainichi joggingusuru yōni shiteimasu : Only if possible, I try to jog everyday </li>
+		<li> futorimashita kara, okashi o tabenai yōni shiteimasu : Since I got fat, I try not to eat sweets </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(dict) yōni shite kudasai : Please try to ~ / make sure to ~ (More formal form of V(te / nai de) kudasai) 
+	</summary>
+	<ul>
+   <li> kisoku o mamoru yōni shite kudasai : Please try to follow the rules </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		A toka B toka... :  A, B and so on (like ya, ya, nado)
+	</summary>
+	<ul>
+   <li> Dansu toka, suiei toka suki desu : I like dancing, swimming and so on </li>
+  </ul>
+</details>

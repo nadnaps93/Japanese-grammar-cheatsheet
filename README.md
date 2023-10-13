@@ -1076,3 +1076,48 @@
    <li> Dansu toka, suiei toka suki desu : I like dancing, swimming and so on </li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		N1(person) wa N2(person) ni <b>passive verb</b> : Person1 got something done by Person2 OR Person2 did / does something to Person1
+	</summary>
+	<ul>
+   <li> watashi wa sensei ni homerare mashita : I was praised by my teacher </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		N1(person) wa N2(person) ni N3 o passive verb : Person2 did/does something to Person1's belonging due to which Person1 is <b>feeling annoyed or troubled</b> by it
+	</summary>
+	<ul>
+   <li> watshi wa ototo ni PS4 o kowasaremashita : I got my PS4 broken by my little brother </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		N(thing) { ga / wa } passive verb : Noun has been Verb
+	</summary>
+	<ul>
+   <li> Tsugi no Orimpikku wa Tokyo de <b>okonawaremasu</b> : The next Olympics is going to be <b>held</b> in Tokyo </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		N1(thing) wa N2(person) ni yotte passive verb : N1 was created / discovered by N2 (person)
+	</summary>
+	<ul>
+   <li> Denwa wa Beru ni yotte hatsumeisare mashita : The telephone was invented by Bell </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		N1(thing) wa N2(thing) {kara / de} tsukuraremasu : N1 is made of/from N2
+	</summary>
+	<ul>
+   <li> Biru was mugi kara tsukuraremasu : Beer is made from Barley </li>
+  </ul>
+</details>

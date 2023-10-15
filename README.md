@@ -1124,8 +1124,8 @@
 
 <details>
 	<summary>
-		Nominalizer form : To change a <b>verb or adj into a noun</b> (koto(L18) and no-particle used as nominalizers)<br>
-		V(dict) <b>no</b> wa adjective desu : Doing verb is adjective
+		<p>Nominalizer form : To change a <b>verb or adj into a noun</b> (koto(L18) and no-particle used as nominalizers)</p>
+		<p>V(dict) <b>no</b> wa adjective desu : Doing verb is adjective</p>
 		
 	</summary>
 	<ul>

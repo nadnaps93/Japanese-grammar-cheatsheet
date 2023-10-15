@@ -1214,3 +1214,43 @@
    <li> Marathon no tochū de, ano biru ga bakuhatsushita : That building exploded during the marathon </li>
   </ul>
 </details>
+
+
+<details>
+	<summary>
+		Interrogative (what/when/where/why/how etc) + {V / adj / Noun} (plain) + ka, Sentence : Clause, sentence (Part1 is the clause)
+	</summary>
+	<ul>
+   <li> Sensei wa nan to itta ka, oboete imasen : I don't remember what the teacher said </li>
+  <li> Gohu no e wa ikura de ureta ka, shitteimasuka? : Do you know how much the Gogh's painting was sold for? </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{V / adj / Noun} (plain) kadō ka, sentence : whether or not
+	</summary>
+	<ul>
+   <li> Nimotsu ga todoiteiru kadō ka, kakunin shite kudasai : Please make sure whether the package has arrived or not </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(te) mimasu : Try to do verb (and see how it goes)
+	</summary>
+	<ul>
+   <li> Mō ichido kangaete mimasu : I'll try to think it over again </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		i-adj to Noun : remove i and add sa (heavy -> heaviness / weight; high -> highness / height etc)
+	</summary>
+	<ul>
+   <li> Omosa wa 100 kiro desu : The weight is 100 kgs</li>
+   <li> Fuji san no takasa wa 3776 metoru desu : The height of Mt Fuji is 3776 mtrs </li>
+  </ul>
+</details>

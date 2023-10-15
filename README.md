@@ -1124,12 +1124,10 @@
 
 <details>
 	<summary>
-		<p>Nominalizer form : To change a <b>verb or adj into a noun</b> (koto(L18) and no-particle used as nominalizers)</p>
-		<p>V(dict) <b>no</b> wa adjective desu : Doing verb is adjective</p>
-		
+		Nominalizer form : To change a <b>verb or adj into a noun</b> (koto(L18) and no-particle used as nominalizers) : V(dict) <b>no</b> wa adjective desu : Doing verb is adjective
 	</summary>
-	<ul>
-   <li> Barēborū o suru no wa muzukashī desu : <b>Playing volleyball</b> is difficult </li>
+   <ul>
+   	<li> Barēborū o suru no wa muzukashī desu : <b>Playing volleyball</b> is difficult </li>
   </ul>
 </details>
 

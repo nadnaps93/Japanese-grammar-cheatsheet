@@ -1121,3 +1121,64 @@
    <li> Biru was mugi kara tsukuraremasu : Beer is made from Barley </li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		Nominalizer form : To change a <b>verb or adj into a noun</b> (koto(L18) and no-particle used as nominalizers)<br>
+		V(dict) <b>no</b> wa adjective desu : Doing verb is adjective
+		
+	</summary>
+	<ul>
+   <li> Barēborū o suru no wa muzukashī desu : <b>Playing volleyball</b> is difficult </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(dict) no <b>ga</b> adj desu : for adj likes, dislikes, skill, capability (e.g - jōzu, heta, suki etc) 
+	</summary>
+	<ul>
+   <li> watashi wa hana o sodateru no ga suki desu : I <b>like</b> growing flowers </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(dict) no <b> o wasuremashita </b> : Forgot to do verb
+	</summary>
+	<ul>
+   <li> shukudai o shimashita ga kyō mottekuru no o wasuremashita : I did my homework but I forgot to bring it today </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(plain) no o shitteimasuka? : Do you know that..? 
+	</summary>
+	<ul>
+   <li> Mira san ga raigetsu kekkonsuru no o shitteimasuka? : Do you know that Mr. Miller is going to get married next month? </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V / i-adj / {na-adj / Noun} + <b>na</b> }(plain form) no wa noun desu : Noun(from nominalizer form of V / adj) is Noun
+	</summary>
+	<ul>
+   <li> 12 gatsu wa 1nen de ichiban isogashī tsuki desu : December is the busiest month of the year (Topic : December)</li>
+   <li> 1nen de ichiban isogashī no wa 12 gatsu desu : <b>The busiest month of the year</b> is December. (Topic in bold. Written by following the above rule. Here, no need to mention tsuki as it's implicit due to no-particle)  </li>
+  <li> ie no mae ni tomete aru no wa <b>dare</b> no kuruma desu ka? : <b>Whose</b> Whose car is parked in front of the house? (Can use interrogatives as well; More like the <b>the car parked in front of the house</b> is whose?)</li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		~toki mo, ~toki ya, ~toki ni, ~toki no etc : the moment or time (noun)
+	</summary>
+	<ul>
+   <li> Tsukareta toki <b>ya</b> Sabishī toki, kazoku o omoidasu : I remember my family <b>when I am tired or lonely (multiple moments here like tired or lonely, so conjuction ya)</b></li>
+   <li> umareta toki <b>kara</b> zutto NY ni sundeimasu : I have been living in NY since(when) I was born</li>
+   <li> Nihon e hajimete itta toki ni ichiban tanoshikatta desu : <b>When I first went to Japan</b>, it was the most fun. (Talking about the specific event, so ni particle is used)</li>
+  </ul>
+</details>

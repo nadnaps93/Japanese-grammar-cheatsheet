@@ -1180,3 +1180,37 @@
    <li> Nihon e hajimete itta toki ni ichiban tanoshikatta desu : <b>When I first went to Japan</b>, it was the most fun. (Talking about the specific event, so ni particle is used)</li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		{ V(te) / V(na)kute / i-adj(kute) / na-adj(de) / noun(de) [natural phenomenon, happenings, events etc] }, sentence2 : Because sentence1 (cause), sentence2 (In Japanese, the reason comes first) [Note: This is same as kara (because) but here sentence2 can't contain volition(will, order, invitation, request etc)]
+	</summary>
+	<ul>
+   <li> jisshin no news o kīte, bikkuri shimashita : I was surprised <b>to hear the earthquake news.</b> (Reason in bold, sentence2 is the feeling (surprised)) </li>
+   <li> tomodachi ga aenakute, sabhishī desu : I am sad <b>because I can't meet my friends </b></li>
+   <li> muzukashī kanji ga ōkute, shinboom ga yomemasen : I can't read the newspaper because there are a lot of difficult kanji </li>
+   <li> jiko ga atte, densha ga okurete shimaimashita : There was an accident, so the train was delayed (Sentence2 is a situation of the past)</li>
+   <li> densha ga okuremashita <b>kara</b>, matte kureru ? : The train was delayed, so can you wait for me? (Above rule can't be used here since volition(request) in sentence2))</li>
+  <li> Kaji de, ie ga yakemashita : Because of the fire, the house was burned down. (Natural phenomenon : noun de)</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ [V(plain) / i-adj ] / [ Noun / na-adj] na} no de, sentence2 : Because sentence1, sentence2 [ same as above rule and kara]
+	</summary>
+	<ul>
+   <li> Nihon ni 2nen sundeita no de, Nihongo ga sukoshi hanasemasu : I lived in Japan for 2 years, that's why I can speak a little Japanese </li>
+   <li> kyō wa shūjin no tanjōbi<b>na</b> no de, cake o katte kareimasu : Today is my husband's birthday, so I will buy a cake and go home. </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{V(dict) / Noun no} tochū de, Sentence2 : During verb / noun, sentence2 happened
+	</summary>
+	<ul>
+   <li> Jitsu wa kuru tochū de, jiko ga atte, bus ga okurete shimattan desu : Actually, on my way here, there was an accident and the bus was delayed </li>
+   <li> Marathon no tochū de, ano biru ga bakuhatsushita : That building exploded during the marathon </li>
+  </ul>
+</details>

@@ -1254,3 +1254,79 @@
    <li> Fuji san no takasa wa 3776 metoru desu : The height of Mt Fuji is 3776 mtrs </li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		<b>Receiver</b> ni object o { yarimasu / sashi agemasu } : Give to~ (Same as agemasu form) [ Order of usage from lower status to higher status -> yarimasu (child, plant, animal) -> agemasu (friends) -> sashi agemasu (superiors) ]
+	</summary>
+	<ul>
+   <li> watashi wa tomodachi ni omiyage o agemashita : I gave my friend a souvenir (same level) </li>
+  <li> watashi wa sachō ni omiyage o sashi agemashita : I gave the company president a souvenir (superior)</li>
+  <li> watashi wa inu ni esa o yarimashita : I gave the dog some food (lower) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		<b>Giver</b> ni object o itadakimasu : Receive something from a person of higher status (Politer form of moraimasu)
+	</summary>
+	<ul>
+   <li> watashi wa buchō ni omiyage o itadakimashita : I received a souvenir from my manager </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		<b>Giver</b> {wa/ga} object o kudasaimasu : Speaker(always self) receives something from a person of higher status (Politer form of kuremasu) 
+	</summary>
+	<ul>
+   <li> Denchō ga (watashi ni) okashi o kudasaimashita : The store manager gave me sweets (here watashi ni is implicit since the receiver is always me. So, not needed) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		(Receiver ni) V(te) { yarimasu / agemasu } : { give / do } verb for someone 
+	</summary>
+	<ul>
+   <li> Watashi wa (inu ni) inu o samposhini tsurete itte yarimashita : I took my dog for a walk (o paritcle here since samposhimasu)</li>
+   <li> Watashi wa musuko ni e hon o yonde { yarimashita / agemashita } :  I read a picture book to my son. </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		(Giver ni) V(te) itadakimasu : Receive an action from a person of higher status
+	</summary>
+	<ul>
+   <li> watashi wa kachō ni video camera o kashite itadakimashita : The department chief lent me a camera </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		Giver {wa/ga} V(te) kudasaimasu : Speaker(self) receives an action from a person of higher status
+	</summary>
+	<ul>
+   <li> Ashita sachō ga kūkō made okutte kudasaimasu : Tomorrow, the company president will send me to the airport </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(te) { kudasaimasenka / kuremasenka } : Bit less politer form of V(te) itadakimasenka (could you please~)
+	</summary>
+	<ul>
+   <li> yoku kikoemasen deshita ga, mō ichido itte kudasaimasenka : I didn't hear it well, will you kindly say it one more time </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun ni verb : [ as a token of... / in memory of.. ] 
+	</summary>
+	<ul>
+   <li> Mira san ga <b>kekkon no oiwai</b> ni kono osara o kudasaimashita : Mr. Miller gave this plate as a <b>wedding gift</b> </li>
+  </ul>
+</details>

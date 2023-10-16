@@ -1330,3 +1330,57 @@
    <li> Mira san ga <b>kekkon no oiwai</b> ni kono osara o kudasaimashita : Mr. Miller gave this plate as a <b>wedding gift</b> </li>
   </ul>
 </details>
+
+
+<details>
+	<summary>
+		{ V(dict) / Noun } no tameni volitional sentence : { In order to verb / for the sake of noun}  .. (Goal) 
+	</summary>
+	<ul>
+   <li> jibun no mise o motsu tameni chōkin shiteimasu : I am saving money in order to have my own shop </li>
+   <li> shigoto no tameni, maishū nihongo o naratteimasu : For the sake of my job, I am learning Japanese every week </li>
+  </ul>
+</details>
+
+## TODO : yōni vs tameni : unclear. Revisit after doing the table for verb forms
+
+<details>
+	<summary>
+		<b>Volitional V(dict) tameni</b> volitional sentence : <b>Non volitional V(dict) yōni</b> volitional sentence
+	</summary>
+	<ul>
+   <li> Jibun no mise o motsu tame ni chōkin shiteimasu : I am saving money in order to have my own shop </li> 
+   <li> Jibun no mise o moteru yōni chōkin shiteimasu : I am saving money so hopefully I am able to have my own shop (Non-volitional verb / potential form since it's out of speaker's control )</li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		 { V(dict) no (nominalizer form) / Noun} ni {tsukaimasu / yakunitachimasu / jikan ga kakarimasu / ii desu / benri desu / hitsuyō desu} : for the purpose of... (Nominalizer form (verb to noun) and used with verbs such as be useful, convenient, necessary, takes time etc)
+	</summary>
+	<ul>
+   <li> yakan wa oyu o wakasu no ni tsukaimasu : The kettle is used for (the purpose of) boiling water </li>
+   <li> Supa wa kaimono ni benri desu : Supermarket is convenient for shopping </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		Quantifier wa : at least
+	</summary>
+	<ul>
+   <li> uchi o tateru no ni, 4000 man en wa hitsuyō desu : At least 40 million yen is required to build this house </li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		Quantifier mo : takes as much as(amount)
+	</summary>
+	<ul>
+   <li> uchi o tateru no ni, 4000 man en mo hitsuyō desu ka? : Does it take as much as 40 million yen to build the house? </li>
+  </ul>
+</details>

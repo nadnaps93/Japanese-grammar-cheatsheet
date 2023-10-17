@@ -1410,9 +1410,52 @@
 
 <details>
 	<summary>
-		
+		{ V(stem) / i-adj(remove i)/ na-adj(remove na) } sugimasu : To do too much excessively / overdo [~sugimasu turns into a group-2 verb]
 	</summary>
 	<ul>
-   <li> list : desc </li>
+   <li> yūbe osake o nomisugimashita : I drank too much alcohol last night </li>
+   <li> nomisugite atama ga ittakunata : My head hurts because I drank too much </li>
+   <li> NY de no yachin wa Nihon yori takasugimasu : Rent in NY is way too expensive than in Japan (takai -> takasugimasu)</li>
   </ul>
 </details>
+
+
+<details>
+	<summary>
+		V(stem) {yasui / nikui} desu : something is easy or difficult to verb [i-adj rules apply here after transformation]
+	</summary>
+	<ul>
+   <li> Hashi de wa tabenikui desu : It's hard to eat with chopsticks </li>
+   <li> Sensei no setesumei wa wakariyasui desu : The teacher's explanation is easy to understand </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ i-adj (remove i and add ku) / {na-adj / noun} ni } shimasu : to turn something into a certain state (same as ku / ni narimasu in L19) 
+	</summary>
+	<ul>
+   <li> chotto mate, heya o kirei<b>ni</b> shimasu : Wait a moment, I'll just tidy up my room </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Noun ni shimasu : I'll have / select / take ~
+	</summary>
+	<ul>
+   <li> nomimono wa ocha ni shimasuka, cofee ni shimasuka? coffee ni shimasu : Would you like tea or coffee as drink? I'll have a coffee </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ i-adj (remove i and add ku) / {na-adj / noun} ni } verb : to do something in a certain way
+	</summary>
+	<ul>
+   <li> yasai o komaka<b>ku</b> kitte kudasai : Please cut the vegetables into smaller pieces </li>
+   <li> mō sukoshi shizuka<b>ni</b> hanashimashō : Please talk more quietly</li>
+  </ul>
+</details>
+
+

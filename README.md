@@ -1384,3 +1384,35 @@
    <li> uchi o tateru no ni, 4000 man en mo hitsuyō desu ka? : Does it take as much as 40 million yen to build the house? </li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		{V(stem)/ i-adj (remove i)/ na-adj (remove na) } sōdesu : { Looks like / seems like / Judging from the appearance } it {is going to / is about to / looks like }..
+	</summary>
+	<ul>
+   <li> ima ni mo ame ga furi sōdesu : It looks like it'll rain at any moment </li>
+   <li> kono ryōri wa oishi sōdesu :  This dish looks delicious (no extra i in oishī)</li>
+   <li> kanojo wa atama ga yosa sōdesu : She seems smart (Exception ⚠️ : ii adj (yoi) - remove i and add sa)</li>
+		 
+  </ul>
+</details>
+
+<details>
+	<summary>
+		(Place e) V(te) kimasu : to go somewhere, do something and come back
+	</summary>
+	<ul>
+   <li> chotto konbini de coffee o kattekimasu : I'll just buy a coffee at the convenience store (and come back) </li>
+   <li> yūbinkyoku e ittekimasu : I'm going to the post office (and come back)</li>
+   <li> chotto dekakete kimasu : I'm going out (and coming back soon)</li> 
+  </ul>
+</details>
+
+<details>
+	<summary>
+		
+	</summary>
+	<ul>
+   <li> list : desc </li>
+  </ul>
+</details>

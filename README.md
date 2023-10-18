@@ -1458,4 +1458,28 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		{V(plain)/i-adj/na-adj(+na)/ Noun no} baai wa : In case that / of...
+	</summary>
+	<ul>
+   <li> kaji ga <b>okitabaai</b> wa sugu ni 911 ni denwashite kudasai : In case there's a fire, call 911 immediately (V(plain))</li>
+   <li> ryōshūshō ga hitsuyō<b>na</b>baai wa mise no hito ni itte : In case a receipt is needed, just tell the store staff (na-adj)</li>
+   <li> netsu ga <b>takaibaai</b> wa, kono kusuri o nonde kudasai : In case your fever is high, please take this medicine (i-adj) </li>
+   <li> <b>Jisshin no baai wa</b> hijōguchi kara nigete kudasai : In case of an emergency exit, run away through the emergency exit (noun no)</li>
+  </ul>
+</details>
 
+
+<details>
+	<summary>
+		{V(plain) / i-adj / {na-adj / noun}+na} no ni~ : Even though / Despite the fact... (Mostly the 2nd clause (~) doesn't meet the speaker's expectations and expresses their dissapointment) {ga, temo also can be used here but no ni form used mostly to express the speaker's complaint because he expected something and got something else}
+	</summary>
+	<ul>
+   <li> yakusokushita no ni kare wa kimasen deshita  : Even though he promised, he didn't come </li>
+  <li> Ryōshin ga segatakai no ni, watashi wa segahikuin desu : Although both my parents are tall, I'm short </li>
+  <li> Ichiban jōzu<b>na</b> no ni, kanojo wa ichii janakatta : Even though she's the most skilled, she didn't get the first place </li>
+  <li> Kyō wa yasumi<b>na</b> no ni, shigoto o shinakereba narimasen : Even though today is my day off, I have to work </li>
+		
+  </ul>
+</details>

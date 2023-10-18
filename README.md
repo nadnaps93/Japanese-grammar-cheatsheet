@@ -1516,3 +1516,31 @@
    <li> Kanojo wa jōzu na hazu desu: I'm sure she's good</li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		{V (plain) / i-adj / na-adj (da) / Noun (da)} sō desu : I heard (from a source) that...
+	</summary>
+	<ul>
+   <li> Ashita wa samukunaru sōdesu : I heard that it will be cold tomorrow </li>
+    <li> Bali wa totemo kirei<b>da</b> sōdesu: I heard that Bali is very beautiful </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ V(plain) / i-adj / na-adj(+na) / Noun no} yō desu : It seems that.. (almost same as V(stem) sō desu but the key difference is yō desu is kind of more certain based on evidences while sō desu is more of a quick observation and assumption)
+	</summary>
+	<ul>
+   <li> Tenki ga kieteimasu ne. Mō daremoinai yō desu : Lights are off. Seems like no one is here anymore. </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		{ oto / koe . nioi / aji } ga shimasu : to hear / smell / taste
+	</summary>
+	<ul>
+   <li> hen na oto ga shimasu ne : There's a strange sound, isn't there? </li>
+  </ul>
+</details>

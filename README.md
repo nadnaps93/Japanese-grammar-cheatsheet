@@ -1538,7 +1538,7 @@
 
 <details>
 	<summary>
-		{ oto / koe . nioi / aji } ga shimasu : to hear / smell / taste
+		{ oto / koe / nioi / aji } ga shimasu : to hear / smell / taste
 	</summary>
 	<ul>
    <li> hen na oto ga shimasu ne : There's a strange sound, isn't there? </li>

@@ -1483,3 +1483,36 @@
 		
   </ul>
 </details>
+
+<details>
+	<summary>
+		V (dict / present progressive / past) tokoro desu / da (casual) : About to do something / in the middle of something / <b>just</b> did something {Time related words are used to specify the point in time (e.g - korekara, (chōdo) imakara etc)}
+	</summary>
+	<ul>
+   <li> Korekara taberu tokoro desu : I'm about to eat now </li>
+   <li> Ima shirabeteiru tokoro desu : We're investigating now</li>
+   <li>tatta ima bus ga deta tokoro desu : The bus left just now</li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		V(ta) bakari desu : An action just finished (tokoro = most recent and bakari might or might not be too recent; tokoro can't be used as noun modifier form but bakari can be)
+	</summary>
+	<ul>
+   <li> okita bakari desu kara, shokuyoku(appetite for food) ga arimasen : I just woke up, so I don't feel like eating yet </li>
+   <li> katta bakari no shatsu o mimashita ka : Did you see the shirt I bought (Noun modifier form)</li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		{V(plain) / i-adj / na-adj (+na) / noun no} hazu desu : It's certain ~/ I'm sure~/ supposed to~/ should be~
+	</summary>
+	<ul>
+   <li> Kanojo wa kuru hazu desu : I'm sure she'll come </li>
+   <li> Kanojo wa jōzu na hazu desu: I'm sure she's good</li>
+  </ul>
+</details>

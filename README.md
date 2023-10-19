@@ -1544,3 +1544,12 @@
    <li> hen na oto ga shimasu ne : There's a strange sound, isn't there? </li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		summary
+	</summary>
+	<ul>
+   <li> list : desc </li>
+  </ul>
+</details>

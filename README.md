@@ -1602,3 +1602,25 @@
 		
   </ul>
 </details>
+
+<details>
+	<summary>
+		Kenjōgo : Humble speech
+	</summary>
+	<ul>
+   <li> o+V(stem) shimasu (For group1 and group2 verb) : ocha o oire shimasu : I'll pour you some tea </li>
+   <li> go+V(stem) shimasu (For group3 verbs) : Kyō no yotei o gosetsumeishimasu : I'll explain today's schedule </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		Teineigo : Polite speech (desu, masu)
+	</summary>
+	<ul>
+   <li> Gozaimasu (polite equivalent of arimasu) : Report wa watashi no tsukue no ue ni gozaimasu </li>
+   <li> {Noun/adj} de gozaimasu (polite equivalent of desu) :  Hai, SBI ginko de gozaimasu : When receiving a call, this is how they generally address </li>
+   <li> Yoroshii deshōka (polite equivalent of ii desu ka) : onomimono wa nani ga yoroshiideshō ka : What would you like to drink? </li>
+		
+  </ul>
+</details>

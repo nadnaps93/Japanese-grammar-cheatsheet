@@ -1547,9 +1547,45 @@
 
 <details>
 	<summary>
-		summary
+		Action teller {wa / ga} Action doer {o / ni} V(intrasitive causative form) : make / let someone do something (o means the doer is not willing to do it; ni means the doer is willing to do it)
 	</summary>
 	<ul>
-   <li> list : desc </li>
+   <li> buchō wa Lo san <b>o</b> Osaka e sūchōsasemasu : The dept manager <b>makes</b> Ms Lo go to Osaka on business trips (Ms Lo is unwilling as the president makes her go)</li>
+   <li> Boku wa imōto <b>o</b> nakaseta : I made my younger sister cry</li>
+   <li> Sensei wa kodomotachi <b>ni</b> jyū ni asobaseta : The teacher <b>let</b> the children play freely (Children are willing to play)</li>
+   <li> Anata o kanashimasetakunai : I don't want to make you sad. (Can also be used with emotions)</li>
   </ul>
 </details>
+
+<details>
+	<summary>
+		Action teller {wa / ga} Action doer ni {place/object} o V(intrasitive causative form) : make / let someone do something (Here, action doer ni means make someone do it even though unwillingly. Since place takes o particle, so action doer can't take o particle. Hence, we use ni) 
+	</summary>
+	<ul>
+   <li> Watashi wa kodomo <b>ni</b> michi no migi gawa <b>o</b> arukaseru : I make my child walk on the <b>right side of the road</b> (With place) </li>
+   <li> Watashi wa kodomo o arukaseru : I make my child walk. (Without place. Same as the form discussed above)</li>
+   <li> Buchō wa buka ni <b>shigoto o </b> yasumasemashita : The manager made / let his staff take time off <b>from work</b> (With object)</li>
+   <li> Buchō wa buka {ni/o} yasumasemashita : The manager made/let his staff rest (Without object)</li>
+  </ul>
+</details>
+
+
+<details>
+	<summary>
+		Action teller {wa / ga} Action doer ni direct object o V(trasitive causative form) : make / let someone do something
+	</summary>
+	<ul>
+   <li> Mainichi kodomotachi ni <b>yasai</b> o tabesaseteimasu : I make my kids eat <b>vegetables</b> everyday </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+		V(causative form)te itadakemasenka : Would you please let me...? (asking for permission)
+	</summary>
+	<ul>
+   <li> Copy ki o tsukawasete itadakemasenka : Would you let me use the copying machine? </li>
+   <li> <b> NOTE : </b> Earlier we read about V(te) itadakemasenka (L26) : The difference is that there we request someone (ideally our superior) to do something for us. Here, we are asking for permission to let us to do it.</li>
+  </ul>
+</details>
+

@@ -1589,3 +1589,16 @@
   </ul>
 </details>
 
+<details>
+	<summary>
+		Sonkeigo : Honorific expressions (used while talking to someone superior to us)
+	</summary>
+	<ul>
+   <li> Subject {wa / ga} V(passive form) : Sachō wa mō kaeraremashita : The president already went hom </li>
+   <li> Subject wa o+V(stem) ni narimasu : More respectful pattern than the previous one : Atarashii iPad o <b>okai</b> ni narimasu ka : Will you be buying the new iPad? </li>
+   <li> Subject wa o+V(stem) kudasai : Respectful way of asking someone to do something : Kochira ni onamae o kaki kudasai : Please write your name here </li>
+   <li> <b>NOTE : </b> o prefix is used with Japanese origin words(nouns, adj, adverbs) (exception : ocha even though it's a Chinese word) : go prefix is used with Chinese origin words (exception : goyukkuri, even though it's a Japanese word)</li>
+   <li> V(stem)mashite, sentence2 : Very polite form of V(te) form : News o kikimashite, bikkurishimashita : I was surprised because I heard the news </li>
+		
+  </ul>
+</details>

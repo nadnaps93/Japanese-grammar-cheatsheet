@@ -1,4 +1,4 @@
-## TODO : Rule table for te, ta, nai, dict form, verb various forms, i-adj, na-adj, positive, negative, past form
+## TODO : Rule table for i-adj, na-adj, positive, negative, past form
 
 <details>
 	<summary>
@@ -595,8 +595,6 @@
    <li> Shiken wa arimasu : I <b>have</b> exam</li>
   </ul>
 </details>
-
-## TODO : Table for potential verb form L27
 
 <details>
 	<summary>
@@ -1341,8 +1339,6 @@
    <li> shigoto no tameni, maishū nihongo o naratteimasu : For the sake of my job, I am learning Japanese every week </li>
   </ul>
 </details>
-
-## TODO : yōni vs tameni : unclear. Revisit after doing the table for verb forms
 
 <details>
 	<summary>

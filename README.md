@@ -228,8 +228,8 @@
 		{ i-adj (kute) / na-adj (de) / noun (de) } : Using multiple adjectives in one sentence to describe someone / something. Only the form of the first adj / noun changes. 
 	</summary>
 	<ul>
-   <li> Naoko san yasashikute, shinsetsu na hito desu </li>
-   <li> Naoko san shinsetsude, yasashii hito desu </li>
+   <li> Naoko san wa yasashikute, shinsetsu na hito desu </li>
+   <li> Naoko san wa shinsetsude, yasashii hito desu </li>
    <li> Naoko san wa Nihonjinde, Yamada san wa indojin desu</li>
   </ul>
 </details>

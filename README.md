@@ -545,6 +545,7 @@
   </ul>
 </details>
 
+## --------------------------- L26 starts (N4) -----------------------------------
 <details>
 	<summary>
 		{ V(plain) / i-adj / na-adj (na) / noun (na) } n desu form : When speaker guesses / asks for confirmation / asks for information / asks for explanation of a situation / gives a reason

@@ -421,7 +421,7 @@
 	</summary>
 	<ul>
    <li> Kaigi de iken o iimashita : I said my opinion at the meeting (occassion) </li>
-   <li> Party de Miller san ni aimashita : Did you meet him at the party?(occassion) </li>
+   <li> Party de Miller san ni aimashita : I met Miller at the party(occassion) </li>
   </ul>
 </details>
 

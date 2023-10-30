@@ -326,7 +326,7 @@
 
 <details>
 	<summary>
-		V(dict) koto ga arimasu : When we do (verb) sometimes / ocassionally
+		V(dict) koto ga arimasu : When we do (verb) sometimes / occasionally
 	</summary>
 	<ul>
    <li> tokidoki tenisu o suru kota ga arimasu : I play tennis sometimes </li>
@@ -417,7 +417,7 @@
 
 <details>
 	<summary>
-		Ocassion <b>de</b> 
+		occasion <b>de</b> 
 	</summary>
 	<ul>
    <li> Kaigi de iken o iimashita : I said my opinion at the meeting (occassion) </li>

@@ -752,7 +752,7 @@
 	</summary>
 	<ul>
    <li> Kippu o nakushite shimaimashita ga, dō shitara ii desu ka : I lost my train ticket. What should I do? </li>
-   <li> hito ga ooikatta desu. Sorede supichi o wasure shimei mashita : There were so many people. That's why I forgot my speech.</li>
+   <li> hito ga ookatta desu. Sorede supichi o wasure shimei mashita : There were so many people. That's why I forgot my speech.</li>
   </ul>
 </details>
 

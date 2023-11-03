@@ -688,13 +688,13 @@
 
 <details>
 	<summary>
-		V / adj (plain form) shi : connecting verbs and adjectives in a single sentence. 
+		{V / adj (plain form)} shi : connecting verbs and adjectives in a single sentence. 
 	</summary>
 	<ul>
    <li> Satō san wa yasashii shi, kireida shi, ninki ga arimasu : Ms Sato is kind, beautiful and popular. (Describing something using multiple adjs)</li>
    <li> Ano mise wa uchi kara chikai shi, aruitte korareru shi, soreni nedan mo yasui desu kara kaimasu : That shop is nearer to my house and I can come by walking. Moreover, the prices are cheap. That's why I shop from there. (Stating more than one reason connecting adj and verb)</li>		
   </ul>
-	<li> Gomen, haha o tetsudauchi, repoto o yarana kereba narimasen : Sorry, I have to help my mother and have to do my report (Declining someone's invitation politely by giving reasons)</li>
+  <li> Gomen, haha o tetsudauchi, repoto o yarana kereba narimasen : Sorry, I have to help my mother and have to do my report (Declining someone's invitation politely by giving reasons)</li>
 </details>
 
 <details>

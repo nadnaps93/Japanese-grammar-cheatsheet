@@ -783,10 +783,11 @@
 	</summary>
 	<ul>
    <li> Mada yuki ga futte imasu : It's still snowing </li> 
-   <li> dōgu o mada tsukatte imasu kara, sonomamnishite oite kudasai : I'm still using the tools, so please leave them as is there.</li>
+   <li> dōgu o mada tsukatte imasu kara, sonomamanishite oite kudasai : I'm still using the tools, so please leave them as is there.</li>
   </ul>
 </details>
 
+## ----------------- L31 starts---------------------
 <details>
 	<summary>
 		V(volitional form) : replacement of mashō (let's) / mashō ka (shall I)

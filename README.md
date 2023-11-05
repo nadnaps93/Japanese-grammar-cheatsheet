@@ -813,7 +813,7 @@
 		{ V(dict form) / V(nai form) } tsumori desu : Express <b>strong intention / determination</b> of doing something 
 	</summary>
 	<ul>
-   <li> watashi wa Nihon iku tsumori desu : I have a strong desire to go to Japan </li>
+   <li> watashi wa Nihon e iku tsumori desu : I have a strong desire to go to Japan </li>
    <li> Kyō kara tabaco o suwanai tsumori desu : From today, I am determined not to smoke. </li>		
   </ul>
 </details>

@@ -914,7 +914,7 @@
 
 <details>
 	<summary>
-		~ to yomimasuka : A is read as B; ~ to kaite arimasu : A is written
+		~ to yomimasu : A is read as B; ~ to kaite arimasu : A is written
 	</summary>
 	<ul>
    <li> Ano kanji wa nan to yomimasuka? "Hijōguchi" to yomimasu : How do you read that Kanji (pointing at a symbol)? It's read as "hijōguchi" </li>
@@ -928,7 +928,6 @@
 	</summary>
 	<ul>
    <li> kono kanji wa <b>dō</b> iu imi desu ka? "Eigyōchū" wa [ima, mise ga aiteiru] to iu imi desu  : What does this kanji mean? "Eigyōchū" means the shop is open for business today</li>
-   <li> </li>
   </ul>
 </details>
 

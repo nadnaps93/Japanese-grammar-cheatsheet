@@ -888,8 +888,8 @@
 		Quantifier de : with this (amount) be enough
 	</summary>
 	<ul>
-   <li> jūman en de gaming pasocom ga kaemasuka : Can I buy a gaming computer <b>for</b> 100,000 yen</li>
-   <li> 1jikan de kuruma o naosemasuka : Can you fix the car <b>in one hour</b></li>
+   <li> jūman en de gaming pasocom ga kaemasuka : Can a gaming computer be bought <b>for</b> 100,000 yen</li>
+   <li> 1jikan de kuruma o naosemasuka : Can the car be fixed <b>in one hour</b></li>
   </ul>
 </details>
 

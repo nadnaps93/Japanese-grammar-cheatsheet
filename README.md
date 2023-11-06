@@ -1031,7 +1031,7 @@
   </ul>
 </details>
 
-##----------- L35 starts---------------------
+## ----------- L35 starts---------------------
 <details>
 	<summary>
 		{ V1 (dict) / V(nai) } yōni V2 : Do V2 in order to achieve the <b>goal</b> (V1)
@@ -1258,7 +1258,7 @@
   </ul>
 </details>
 
-#----------------L40 starts-------------------
+## ----------------L40 starts-------------------
 <details>
 	<summary>
 		<b>Receiver</b> ni object o { yarimasu / sashi agemasu } : Give to~ (Same as agemasu form) [ Order of usage from lower status to higher status -> yarimasu (child, plant, animal) -> agemasu (friends) -> sashi agemasu (superiors) ]

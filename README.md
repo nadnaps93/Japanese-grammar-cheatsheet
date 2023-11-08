@@ -1030,7 +1030,7 @@
 
 <details>
 	<summary>
-		{ V(dict) yōni / V(na)ku } narimasu : Something change to different state
+		{ V(dict) yōni / V(nai)ku } narimasu : Something change to different state
 	</summary>
 	<ul>
    <li> Nihongoal no kanji no video o mireba, kanji ga yomeru yōni narimasu : If you watch Nihongoal kanji videos, <b>you'll be able to read kanji</b></li>

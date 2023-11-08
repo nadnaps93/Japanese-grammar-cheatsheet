@@ -999,18 +999,6 @@
   </ul>
 </details>
 
-
-<details>
-	<summary>
-		~to / ~tara is similar to ~kereba except in <b>~kereba is always used when subject is self.</b> 
-	</summary>
-	<ul>
-   <li> Akai botan o osu <b>to</b>, cardo ga demasu : Akai botan o <b>oseba</b>, cardo ga demasu : When you press the red button, the card comes out</li>
-   <li> Isogashi kunakat<b>tara</b>, kite kudasai ✅ : (Anata wa)Isogashi kuna<b>kereba</b>, (anata)kite kudasai ❌ :If you're not busy, please come here  (kereba form is wrong since subject is not self)</li>
-   
-  </ul>
-</details>
-
 <details>
 	<summary>
 		Interrogative V(ba) ii desu ka : [where/what/how etc should I..?]

@@ -1155,6 +1155,7 @@
    <li> 12 gatsu wa 1nen de ichiban isogashī tsuki desu : December is the busiest month of the year (Topic : December)</li>
    <li> 1nen de ichiban isogashī no wa 12 gatsu desu : <b>The busiest month of the year</b> is December. (Topic in bold. Written by following the above rule. Here, no need to mention tsuki as it's implicit due to no-particle)  </li>
   <li> ie no mae ni tomete aru no wa <b>dare</b> no kuruma desu ka? : <b>Whose</b> Whose car is parked in front of the house? (Can use interrogatives as well; More like the <b>the car parked in front of the house</b> is whose?)</li>
+<li> Anata no kuni no omiyage no naka de ichiban yume<b>na</b> no wa nan desu ka? : Among all the souvenirs in your country, what is the most famous one? </li>
   </ul>
 </details>
 

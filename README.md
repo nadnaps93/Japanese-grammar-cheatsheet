@@ -1244,7 +1244,7 @@
   </ul>
 </details>
 
-## ----------------L40 starts-------------------
+## ----------------L41 starts-------------------
 <details>
 	<summary>
 		<b>Receiver</b> ni object o { yarimasu / sashi agemasu } : Give to~ (Same as agemasu form) [ Order of usage from lower status to higher status -> yarimasu (child, plant, animal) -> agemasu (friends) -> sashi agemasu (superiors) ]

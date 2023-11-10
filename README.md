@@ -1218,7 +1218,7 @@
 
 <details>
 	<summary>
-		{V / adj / Noun} (plain) kadō ka, sentence : whether or not
+		{V / adj / Noun} (plain) kadōka, sentence : whether or not
 	</summary>
 	<ul>
    <li> Nimotsu ga todoiteiru kadō ka, kakunin shite kudasai : Please make sure whether the package has arrived or not </li>

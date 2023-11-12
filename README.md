@@ -1447,6 +1447,7 @@
   </ul>
 </details>
 
+## -------------------------- L45 starts ----------------------
 <details>
 	<summary>
 		{V(plain)/i-adj/na-adj(+na)/ Noun no} baai wa : In case that / of...

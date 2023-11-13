@@ -1468,7 +1468,7 @@
 	<ul>
    <li> yakusokushita no ni kare wa kimasen deshita  : Even though he promised, he didn't come </li>
   <li> Ryōshin ga segatakai no ni, watashi wa segahikuin desu : Although both my parents are tall, I'm short </li>
-  <li> Ichiban jōzu<b>na</b> no ni, kanojo wa ichii janakatta : Even though she's the most skilled, she didn't get the first place </li>
+  <li> Ichiban jōzu<b>na</b> no ni, kanojo wa ichi-i janakatta : Even though she's the most skilled, she didn't get the first place (-i : th ranking) </li>
   <li> Kyō wa yasumi<b>na</b> no ni, shigoto o shinakereba narimasen : Even though today is my day off, I have to work </li>
 		
   </ul>

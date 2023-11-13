@@ -1510,7 +1510,7 @@
 
 <details>
 	<summary>
-		{V (plain) / i-adj / na-adj (da) / Noun (da)} sō desu : I heard (from a source) that...
+		{V (plain) / i-adj / na-adj (da) / Noun (da)} sō desu : I heard (from a source) that... (Another sō desu - looks like (but there verb stem was used))
 	</summary>
 	<ul>
    <li> Ashita wa samukunaru sōdesu : I heard that it will be cold tomorrow </li>

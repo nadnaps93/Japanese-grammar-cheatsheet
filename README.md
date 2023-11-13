@@ -1403,7 +1403,7 @@
 	</summary>
 	<ul>
    <li> yūbe osake o nomisugimashita : I drank too much alcohol last night </li>
-   <li> nomisugite atama ga ittakunata : My head hurts because I drank too much </li>
+   <li> nomisugite atama ga ittaku natta : My head hurts because I drank too much </li>
    <li> NY de no yachin wa Nihon yori takasugimasu : Rent in NY is way too expensive than in Japan (takai -> takasugimasu)</li>
   </ul>
 </details>

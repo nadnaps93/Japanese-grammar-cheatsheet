@@ -1450,13 +1450,13 @@
 ## -------------------------- L45 starts ----------------------
 <details>
 	<summary>
-		{V(plain)/i-adj/na-adj(+na)/ Noun no} baai wa : In case that / of...
+		{V(plain)/i-adj/na-adj(+na)/ Noun no} ba ai wa : In case that / of... (ba conditional form (kereba); ai - encounter/meet)
 	</summary>
 	<ul>
-   <li> kaji ga <b>okitabaai</b> wa sugu ni 911 ni denwashite kudasai : In case there's a fire, call 911 immediately (V(plain))</li>
-   <li> ryōshūshō ga hitsuyō<b>na</b>baai wa mise no hito ni itte : In case a receipt is needed, just tell the store staff (na-adj)</li>
-   <li> netsu ga <b>takaibaai</b> wa, kono kusuri o nonde kudasai : In case your fever is high, please take this medicine (i-adj) </li>
-   <li> <b>Jisshin no baai wa</b> hijōguchi kara nigete kudasai : In case of an emergency exit, run away through the emergency exit (noun no)</li>
+   <li> kaji ga <b>okitaba ai</b> wa sugu ni 911 ni denwashite kudasai : In case there's a fire, call 911 immediately (V(plain))</li>
+   <li> ryōshūshō ga hitsuyō<b>na</b>ba ai wa mise no hito ni itte : In case a receipt is needed, just tell the store staff (na-adj)</li>
+   <li> netsu ga <b>takaiba ai</b> wa, kono kusuri o nonde kudasai : In case your fever is high, please take this medicine (i-adj) </li>
+   <li> <b>Jisshin no ba ai wa</b> hijōguchi kara nigete kudasai : In case of an emergency exit, run away through the emergency exit (noun no)</li>
   </ul>
 </details>
 

@@ -1504,6 +1504,7 @@
 	<ul>
    <li> Kanojo wa kuru hazu desu : I'm sure she'll come </li>
    <li> Kanojo wa jōzu na hazu desu: I'm sure she's good</li>
+   <li> Rusu no hazu desu : I'm sure of their absence (Noun)</li>
   </ul>
 </details>
 

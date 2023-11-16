@@ -522,6 +522,17 @@
 
 <details>
 	<summary>
+		Ni in {Agemasu / Kashimasu / Oshiemasu} vs {Moraimasu / Karimasu / Naraimasu}
+	</summary>
+	<ul>
+   <li> Anata ni kore o agemasu : I'll give this to you ( the receiver takes ni ) </li>
+   <li> Yamada san wa kanojo ni nihongo o oshiemasu : Yamada teaches her Japanese ( the receiver takes ni ) </li>
+   <li> Kanojo wa Yamada san ni nihongo o naraimashita : She learned japanese from Yamada san ( the giver takes ni ) </li>
+  </ul>
+</details>
+
+<details>
+	<summary>
 		[Moshi(if)]{ V(ta) / adj (plain past) / noun } ra, main sentence : { If / when } conditional clause, then main sentence. If has less probability of occuring than when. When is almost certain.
 	</summary>
 	<ul>

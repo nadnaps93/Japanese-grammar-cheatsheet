@@ -1336,7 +1336,7 @@
 
 <details>
 	<summary>
-		{ V(dict) / Noun } no tameni volitional sentence : { In order to verb / for the sake of noun}  .. (Goal) 
+		{ V(dict) / Noun no } tameni volitional sentence : { In order to verb / for the sake of noun}  .. (Goal) 
 	</summary>
 	<ul>
    <li> jibun no mise o motsu tameni chōkin shiteimasu : I am saving money in order to have my own shop </li>

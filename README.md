@@ -545,7 +545,7 @@
 
 <details>
 	<summary>
-		[Ikura(how much)]{ V(te) / i-adj (kute) / na-adj, noun(de) } mo, second sentence : Even if conditional clause, main sentence
+		[Sonnani / Ikura(how much)]{ V(te) / i-adj (kute) / na-adj, noun(de) } mo, second sentence : Even if conditional clause, main sentence
 	</summary>
 	<ul>
    <li> Benkyōshite mo, wakarimasen : <b>Even if</b> I study, I won't understand </li>

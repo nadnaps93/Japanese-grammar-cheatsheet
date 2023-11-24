@@ -1626,3 +1626,33 @@
 		
   </ul>
 </details>
+
+## ------------------ Found out during mock tests -------
+
+<details>
+	<summary>
+		V (volitional form) to toshite
+	</summary>
+	<ul>
+   <li> eki de densha ni <b>norou</b> toshita toki ni, kaban ga nai koto <b>ni</b> kigatsukimasu</li>
+  </ul>
+</details>
+
+<details>
+	<summary>
+	    New words encounterd
+	</summary>
+	<ul>
+   <li> Odoroki : surprise (Bikkuri shimasu) </li>
+   <li> Yorokobi : joy </li>
+   <li> Tsutomete : Work </li>
+   <li> Narubeku : As much as possible (Dekirudake)</li>
+   <li> Aisatsu : greeting</li>
+	<li> Orei : Thanks / gratitude </li>
+	<li> Monku : Complaint</li>
+	<li> Seide : Bad result </li>
+	<li> Okagesa : Good result</li>
+		<li> Tazuneru : Visit someone's house</li>
+		<li> igai : Exception</li>
+  </ul>
+</details>
